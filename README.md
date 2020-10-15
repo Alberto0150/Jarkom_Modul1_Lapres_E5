@@ -2,7 +2,7 @@
 ## Soal dan Jawaban
 ### 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 Jawaban : 
-
+![1a](Screenshot/1a.png)
 ### 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 Jawaban :
 
