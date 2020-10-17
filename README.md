@@ -6,8 +6,8 @@ Jawaban :
 ![1b](Screenshot/1b.png)
 ### 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 Jawaban :  
-![2a](Screenshot/2a.png)
-![2b](Screenshot/2b.png)
+![2a](Screenshot/2a.PNG)
+![2b](Screenshot/2b.PNG)
 ![2c](Screenshot/2c.png)
 ### 3. Cari username dan password ketika login di "ppid.dpr.go.id"!
 Jawaban :   
