@@ -13,7 +13,7 @@ Jawaban :
 ![3](Screenshot/3.png)
 ### 4. Temukan paket dari web-web yang menggunakan basic authentication method!
 Jawaban :   
-![4](Screenshot/4.png)
+![4](Screenshot/4.PNG)
 
 
 
