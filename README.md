@@ -8,6 +8,7 @@ Jawaban :
 Jawaban :  
 ![2a](Screenshot/2a.png)
 ![2b](Screenshot/2b.png)
+![2c](Screenshot/2c)
 ### 3. Cari username dan password ketika login di "ppid.dpr.go.id"!
 Jawaban :   
 ![3](Screenshot/3.png)
